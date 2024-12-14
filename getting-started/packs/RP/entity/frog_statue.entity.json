@@ -1,0 +1,22 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "bedrockoss:frog_statue",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/entity/frog_statue"
+			},
+			"geometry": {
+				"default": "geometry.frog"
+			},
+			"render_controllers": ["controller.render.default"],
+			"spawn_egg": {
+				"base_color": "#757575",
+				"overlay_color": "#303030"
+			}
+		}
+	}
+}
